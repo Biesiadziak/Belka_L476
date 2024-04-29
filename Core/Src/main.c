@@ -14,6 +14,11 @@
   * If no LICENSE file comes with this software, it is provided AS-IS.
   *
   ******************************************************************************
+  Biblioteka https://github.com/PCov3r/HX711-STM32-Library/tree/main
+
+  SCK - PB8 // GPIO OUTPUT
+  DT - PB9 // GPIO INPUT
+
   */
 /* USER CODE END Header */
 /* Includes ------------------------------------------------------------------*/
